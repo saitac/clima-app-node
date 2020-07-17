@@ -1,0 +1,21 @@
+{
+    "name": "05-clima-mundo",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "jshintConfig": {
+        "esversion": "6"
+    },
+    "dependencies": {
+        "axios": "^0.19.2",
+        "yargs": "^15.4.1"
+    },
+    "devDependencies": {
+        "jshint": "^2.11.1"
+    }
+}
